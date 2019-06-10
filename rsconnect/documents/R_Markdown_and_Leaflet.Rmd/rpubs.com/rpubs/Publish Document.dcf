@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/503680/4a553f609f7a4f2d977ae52cd35d4254
+bundleId: https://api.rpubs.com/api/v1/document/503680/4a553f609f7a4f2d977ae52cd35d4254
+url: http://rpubs.com/shtaheri/503680
+when: 1560191428.24763
